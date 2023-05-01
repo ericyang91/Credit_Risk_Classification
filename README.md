@@ -1,4 +1,5 @@
 # Credit Risk Classification
+![creditrisk](https://github.com/ericyang91/Credit_Risk_Classification/blob/main/creditrisk.jpg)
 
 ## Overview of the Analysis
 
