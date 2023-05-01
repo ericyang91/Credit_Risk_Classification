@@ -32,3 +32,10 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 The above precision and recall rates reflect the 'bad' clients ('1') as the focus should be to correcly identify them. Both models have good rates on all three evaluation criterias. The recommended model, however, is the second model that randomly creates synthetic data in the minority data set to match the number of the majority data set. It gives us perfect accuracy and recall scores.
 Decision whether to use precision or recall depends on the business goals of the lender. If a rocky road lies ahead, it is crucial to mitigate risk, therefore the recommended criteria to evaluate the model is recall. On the other hand, if the business is flourishing, we might want to minimize any loss of opportunity. In this case, precision is recommended.
+
+## Languages and Libraries
+[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-0.24.2-blue)](https://scikit-learn.org/stable/)
+[![Python](https://img.shields.io/badge/python-v3.10-blue)](https://www.python.org/downloads/release/python-310/)
+[![Pandas](https://img.shields.io/badge/pandas-v1.3.3-blue)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/numpy-v1.21.4-blue)](https://numpy.org/)
+
